@@ -3,7 +3,7 @@ import telebot
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-API_TOKEN = '1234567890:AAE_abCDEFghijKLmNOpqRsTuVWxyz'
+API_TOKEN = '7846001329:AAGVTzk8JROCbVOcvNDQyt6EGAc3bqkAbf4'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Handle '/start' and '/help'
